@@ -4,12 +4,13 @@ import { motion } from 'framer-motion';
 
 import { styles } from '../styles';
 import { services } from '../constants';
+import { SectionWrapper } from '../hoc';
 import { fadeIn, textVariant } from '../ultis/motion';
 
 const ServiceCard = ({ index, title, icon }) => (
   <Tilt className='xs:w-[250px] w-full'>
     <motion.div
-      variants={fadeIn("right", "spring", index * 0.5, 0.75)}
+      variants={fadeIn('right', 'spring', index * 0.5, 0.75)}
       className='w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card'
     >
       <div
@@ -43,7 +44,7 @@ const About = () => {
       </motion.div>
 
       <motion.p
-        variants={fadeIn("", "", 0.1, 1)}
+        variants={fadeIn('', '', 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         I am a Junior majoring in Computer Science at Texas State University. 
@@ -60,4 +61,4 @@ const About = () => {
     </>
   );
 };
-export default About
+export default SectionWrapper(About, 'about');

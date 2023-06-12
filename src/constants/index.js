@@ -15,10 +15,9 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    milkTea,
+    phoHub,
+    txst,
     carrent,
     jobit,
     tripguide,
@@ -118,7 +117,7 @@ import {
     {
       title: "Full Time Student",
       company_name: "Texas State University",
-      icon: starbucks,
+      icon: txst,
       iconBg: "#383E56",
       date: "Aug 2022 - Present",
       points: [
@@ -129,7 +128,7 @@ import {
     {
       title: "Website Developer",
       company_name: "PhoHub",
-      icon: tesla,
+      icon: phoHub,
       iconBg: "#E6DEDD",
       date: "Jan 2022 - Mar 2022",
       points: [
@@ -143,7 +142,7 @@ import {
     {
       title: "Resturaunt Manager",
       company_name: "PhoHub",
-      icon: tesla,
+      icon: phoHub,
       iconBg: "#383E56",
       date: "Dec 2021 - Present",
       points: [
@@ -157,7 +156,7 @@ import {
     {
       title: "Boba Barista",
       company_name: "Milk + Tea",
-      icon: meta,
+      icon: milkTea,
       iconBg: "#E6DEDD",
       date: "Aug 2020 - Sep 2021",
       points: [

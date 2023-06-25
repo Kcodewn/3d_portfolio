@@ -197,25 +197,30 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Project Auto",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
-          name: "react",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Next JS 13",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Tailwind",
           color: "pink-text-gradient",
+        },
+
+        {
+          name: "Typescript",
+          color: "blue-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://show-room-kappa.vercel.app",
     },
     {
       name: "Job IT",

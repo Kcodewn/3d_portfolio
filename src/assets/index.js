@@ -4,6 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import vercel from "./vercel.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import css from "./tech/css.png";
@@ -24,9 +25,9 @@ import milkTea from "./company/milkTea.png";
 import phoHub from "./company/phoHub.png";
 import txst from "./company/txst.png";
 
-import carrent from "./carrent.png";
+import showRoom from "./showRoom.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import toDoList from "./toDoList.png";
 
 export {
   logo,
@@ -35,6 +36,7 @@ export {
   mobile,
   web,
   github,
+  vercel,
   menu,
   close,
   css,
@@ -53,7 +55,7 @@ export {
   milkTea,
   phoHub,
   txst,
-  carrent,
+  showRoom,
   jobit,
-  tripguide,
+  toDoList,
 };

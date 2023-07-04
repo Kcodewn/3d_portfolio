@@ -18,9 +18,9 @@ import {
     milkTea,
     phoHub,
     txst,
-    carrent,
+    showRoom,
     jobit,
-    tripguide,
+    toDoList,
     threejs,
   } from "../assets";
   
@@ -219,7 +219,7 @@ import {
           color: "blue-text-gradient",
         },
       ],
-      image: carrent,
+      image: showRoom,
       source_code_link: "https://show-room-kappa.vercel.app",
     },
     {
@@ -244,25 +244,25 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "ToDo List",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Powerful Task Management at Your Fingertips: Discover, Organize, and Conquer Your Daily Tasks with Our Intuitive Todo List App!",
       tags: [
         {
-          name: "nextjs",
+          name: "css",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "js",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "html",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: toDoList,
+      source_code_link: "https://todo-beige-mu.vercel.app",
     },
   ];
   

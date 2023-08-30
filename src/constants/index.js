@@ -53,7 +53,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "GoLang Developer",
       icon: creator,
     },
   ];

@@ -24,7 +24,6 @@ import {
     toDoList,
     personalWeb,
     threejs,
-    goLang,
   } from "../assets";
   
   export const navLinks = [

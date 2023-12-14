@@ -15,6 +15,7 @@ import {
     git,
     figma,
     docker,
+    goLang,
     milkTea,
     phoHub,
     txst,
@@ -23,6 +24,7 @@ import {
     toDoList,
     personalWeb,
     threejs,
+    goLang,
   } from "../assets";
   
   export const navLinks = [
@@ -80,10 +82,10 @@ import {
       name: "React JS",
       icon: reactjs,
     },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
+    // {
+    //   name: "Redux Toolkit",
+    //   icon: redux,
+    // },
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -105,13 +107,13 @@ import {
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "Go",
+      icon: goLang,
     },
-    {
-      name: "docker",
-      icon: docker,
-    },
+    // {
+    //   name: "docker",
+    //   icon: docker,
+    // },
   ];
   
   const experiences = [

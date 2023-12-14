@@ -53,7 +53,7 @@ export {
   tailwind,
   typescript,
   threejs,
-  goLang,
+  // goLang,
   milkTea,
   phoHub,
   txst,

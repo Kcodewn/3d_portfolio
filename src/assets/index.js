@@ -28,6 +28,7 @@ import txst from "./company/txst.png";
 import showRoom from "./showRoom.png";
 import jobit from "./jobit.png";
 import toDoList from "./toDoList.png";
+import personalWeb from "./personalWeb.png"
 
 export {
   logo,
@@ -58,4 +59,5 @@ export {
   showRoom,
   jobit,
   toDoList,
+  personalWeb,
 };

@@ -20,6 +20,8 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import goLang from "./tech/goLang.png";
+
 
 import milkTea from "./company/milkTea.png";
 import phoHub from "./company/phoHub.png";
@@ -53,7 +55,7 @@ export {
   tailwind,
   typescript,
   threejs,
-  // goLang,
+  goLang,
   milkTea,
   phoHub,
   txst,

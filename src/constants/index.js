@@ -264,6 +264,27 @@ import {
       image: toDoList,
       source_code_link: "https://todo-beige-mu.vercel.app",
     },
+    {
+      name: "Personal Website",
+      description:
+        "Web application that contains my current up to date information.",
+      tags: [
+        {
+          name: "css",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "html",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: personalWeb,
+      source_code_link: "https://kcodewn.github.io/",
+    },
   ];
   
   export { services, technologies, experiences, testimonials, projects };

@@ -28,7 +28,7 @@ import phoHub from "./company/phoHub.png";
 import txst from "./company/txst.png";
 
 import showRoom from "./showRoom.png";
-import githubPic from "./githubPic.png";
+import githubPic from "./githubPic.jpg";
 import toDoList from "./toDoList.png";
 import personalWeb from "./personalWeb.png"
 

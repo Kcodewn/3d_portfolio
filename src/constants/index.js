@@ -20,7 +20,7 @@ import {
     phoHub,
     txst,
     showRoom,
-    github,
+    github2,
     toDoList,
     personalWeb,
     threejs,
@@ -242,7 +242,7 @@ import {
       //     color: "pink-text-gradient",
       //   },
       // ],
-      image: github,
+      image: github2,
       source_code_link: "https://github.com/",
     },
     {

@@ -165,7 +165,7 @@ import {
         "Promoted additional items with beverages, increasing store sales.",
         "Recommended products based on a solid understanding of individual customer needs and preferences.",
         "Learned special recipe items and seasonal offerings to meet customer needs best.",
-        "Maintained supply levels in counter and customer areas to meet typical demands.",
+        "Maintained supply levels in counter and customer areas to meet store demands.",
       ],
     },
   ];

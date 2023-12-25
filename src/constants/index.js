@@ -20,7 +20,7 @@ import {
     phoHub,
     txst,
     showRoom,
-    jobit,
+    github,
     toDoList,
     personalWeb,
     threejs,
@@ -225,24 +225,24 @@ import {
       source_code_link: "https://show-room-kappa.vercel.app",
     },
     {
-      name: "Job IT",
+      name: "GitHub",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: jobit,
+        "You can find out more about me here!",
+      // tags: [
+      //   {
+      //     name: "react",
+      //     color: "blue-text-gradient",
+      //   },
+      //   {
+      //     name: "restapi",
+      //     color: "green-text-gradient",
+      //   },
+      //   {
+      //     name: "scss",
+      //     color: "pink-text-gradient",
+      //   },
+      // ],
+      image: github,
       source_code_link: "https://github.com/",
     },
     {

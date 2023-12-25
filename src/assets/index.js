@@ -28,7 +28,7 @@ import phoHub from "./company/phoHub.png";
 import txst from "./company/txst.png";
 
 import showRoom from "./showRoom.png";
-import jobit from "./jobit.png";
+import github from "./github2.png";
 import toDoList from "./toDoList.png";
 import personalWeb from "./personalWeb.png"
 
@@ -60,7 +60,7 @@ export {
   phoHub,
   txst,
   showRoom,
-  jobit,
+  github,
   toDoList,
   personalWeb,
 };

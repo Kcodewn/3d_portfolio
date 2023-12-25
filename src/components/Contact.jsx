@@ -7,6 +7,11 @@ import { EarthCanvas } from './canvas';
 import { SectionWrapper } from '../hoc';
 import { slideIn } from '../ultis/motion';
 
+// P4pt6unBw-BCqOa44
+// template_rohghjs
+// service_or017cc
+
+
 const Contact = () => {
   const formRef = useRef();
   const [form, setForm] = useState({
@@ -33,16 +38,16 @@ const Contact = () => {
 
     emailjs
       .send(
-        import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+        'service_or017cc',
+        'template_rohghjs',
         {
           from_name: form.name,
           to_name: 'Khanh Nguyen',
           from_email: form.email,
-          to_email: 'jcodewn@gmail.com',
+          to_email: 'Kcodewn@gmail.com',
           message: form.message,
         },
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        'P4pt6unBw-BCqOa44'
       )
       .then(
         () => {

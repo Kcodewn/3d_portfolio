@@ -228,20 +228,20 @@ import {
       name: "GitHub",
       description:
         "You can find out more about me here!",
-      // tags: [
-      //   {
-      //     name: "react",
-      //     color: "blue-text-gradient",
-      //   },
-      //   {
-      //     name: "restapi",
-      //     color: "green-text-gradient",
-      //   },
-      //   {
-      //     name: "scss",
-      //     color: "pink-text-gradient",
-      //   },
-      // ],
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "restapi",
+          color: "green-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+      ],
       image: githubPic,
       source_code_link: "https://github.com/",
     },
